@@ -10,8 +10,7 @@
         {
             string key = Console.ReadLine();
             string text = Console.ReadLine();
-
-
+            Console.WriteLine(Encode(text, key));
         }
 
         static string Encode(string text, string key)
@@ -19,9 +18,10 @@
             var encoded = new StringBuilder();
             for (int i = 0; i < text.Length; i++)
             {
-                encoded.Append(text[i] ^ key[i % key.Length]);
+                encoded.Append((char)(text[i] ^ key[i % key.Length]));
             }
             return encoded.ToString();
         }
+
     }
 }
