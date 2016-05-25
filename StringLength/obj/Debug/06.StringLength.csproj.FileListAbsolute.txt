@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe.config
+D:\Orlinovski Tapotii\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe
+D:\Orlinovski Tapotii\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.pdb
+D:\Orlinovski Tapotii\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.exe
+D:\Orlinovski Tapotii\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.pdb
