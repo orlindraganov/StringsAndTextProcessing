@@ -3,3 +3,6 @@ D:\Orlinovski Tapotii\StringsAndTextProcessing\StringLength\bin\Debug\StringLeng
 D:\Orlinovski Tapotii\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.pdb
 D:\Orlinovski Tapotii\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.exe
 D:\Orlinovski Tapotii\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.pdb
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe.config
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.exe
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.pdb

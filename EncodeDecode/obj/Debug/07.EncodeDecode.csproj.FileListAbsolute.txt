@@ -4,3 +4,6 @@ D:\Orlinovski Tapotii\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDeco
 D:\Orlinovski Tapotii\StringsAndTextProcessing\EncodeDecode\obj\Debug\07.EncodeDecode.csprojResolveAssemblyReference.cache
 D:\Orlinovski Tapotii\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.exe
 D:\Orlinovski Tapotii\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.pdb
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe.config
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.exe
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.pdb

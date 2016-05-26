@@ -4,3 +4,6 @@ D:\Orlinovski Tapotii\StringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.exe
 D:\Orlinovski Tapotii\StringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.pdb
 D:\Orlinovski Tapotii\StringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.exe
 D:\Orlinovski Tapotii\StringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.pdb
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.exe.config
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.exe
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.pdb

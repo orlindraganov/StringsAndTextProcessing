@@ -1,3 +1,0 @@
-D:\Orlinovski Tapotii\StringsAndTextProcessing\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\Orlinovski Tapotii\StringsAndTextProcessing\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\Orlinovski Tapotii\StringsAndTextProcessing\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

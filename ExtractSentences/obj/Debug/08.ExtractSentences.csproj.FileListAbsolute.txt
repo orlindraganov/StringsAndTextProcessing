@@ -1,0 +1,6 @@
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.exe.config
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\ExtractSentences\obj\Debug\08.ExtractSentences.csprojResolveAssemblyReference.cache
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.exe
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.pdb
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.exe
+D:\Orlin\CSharpHomeworks\StringsAndTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.pdb
