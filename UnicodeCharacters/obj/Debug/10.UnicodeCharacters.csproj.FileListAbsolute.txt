@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+D:\Orlinovski Tapotii\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+D:\Orlinovski Tapotii\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+D:\Orlinovski Tapotii\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\10.UnicodeCharacters.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+D:\Orlinovski Tapotii\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

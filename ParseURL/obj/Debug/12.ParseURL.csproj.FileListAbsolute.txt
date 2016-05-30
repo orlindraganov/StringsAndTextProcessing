@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.exe.config
+D:\Orlinovski Tapotii\StringsAndTextProcessing\ParseURL\obj\Debug\ParseURL.exe
+D:\Orlinovski Tapotii\StringsAndTextProcessing\ParseURL\obj\Debug\ParseURL.pdb
+D:\Orlinovski Tapotii\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.exe
+D:\Orlinovski Tapotii\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.pdb
+D:\Orlinovski Tapotii\StringsAndTextProcessing\ParseURL\obj\Debug\12.ParseURL.csprojResolveAssemblyReference.cache
